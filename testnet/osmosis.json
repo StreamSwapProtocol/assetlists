@@ -1,0 +1,77 @@
+[
+  {
+    "image": "https://raw.githubusercontent.com/StreamSwapProtocol/assetlists/main/images/flix.svg",
+    "denom": "factory/osmo1nz7qdp7eg30sr959wvrwn9j9370h4xt6ttm0h3/ussflix",
+    "displayDenom": "ssFLIX"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/StreamSwapProtocol/assetlists/main/images/shark.png",
+    "denom": "factory/osmo1eqntnl6tzcj9h86psg4y4h6hh05g2h9nhgr9xr/shark",
+    "displayDenom": "SHARK",
+    "coinDenom": "SHARK"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/StreamSwapProtocol/assetlists/main/images/streamswap.svg",
+    "denom": "factory/osmo1nz7qdp7eg30sr959wvrwn9j9370h4xt6ttm0h3/asswp",
+    "displayDenom": "SSWP",
+    "coinDenom": "SSWP",
+    "denom_units": [
+      {
+        "denom": "SSWP",
+        "exponent": 18
+      }
+    ]
+  },
+  {
+    "image": "https://raw.githubusercontent.com/StreamSwapProtocol/assetlists/main/images/c4e.webp",
+    "denom": "ibc/539BC2B6E70117D220834D6DF8E27307655D1325C0CADF7E3AF90AB00D9F8D69",
+    "displayDenom": "C4E"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/StreamSwapProtocol/assetlists/main/images/empower.png",
+    "denom": "ibc/9F0154559E79E6444AC0762AA390AED5784D01759F91A3D59246428E02160BD3",
+    "displayDenom": "MPWR"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/StreamSwapProtocol/assetlists/main/images/nolus.png",
+    "denom": "ibc/95359FD9C5D15DBD7B9A6B7271F5E769776999590DE138ED62B6E89D5D010B7C",
+    "displayDenom": "NLS"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/StreamSwapProtocol/assetlists/main/images/quasar.png",
+    "denom": "ibc/206DE6A2D1882D91A12F01C8BD85A33C9673C6A39761D36CF736436D6EF4C588",
+    "displayDenom": "QSR"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/StreamSwapProtocol/assetlists/main/images/passage.png",
+    "denom": "ibc/966AAD1709CC2C27723B7C88F69E8059575D9FE615A2F7FF677347C27C8634CE",
+    "displayDenom": "PASG"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/StreamSwapProtocol/assetlists/main/images/strdust.png",
+    "denom": "ibc/443E1EE7461A500928DD8B47E8FE54175CD3E8B8A2FFD8B5D6259DF73929A31C",
+    "displayDenom": "STRDST"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/StreamSwapProtocol/assetlists/main/images/lore.png",
+    "denom": "factory/osmo1nz7qdp7eg30sr959wvrwn9j9370h4xt6ttm0h3/usslore",
+    "displayDenom": "ssLORE"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/StreamSwapProtocol/assetlists/main/images/injective.svg",
+    "denom": "factory/osmo1nz7qdp7eg30sr959wvrwn9j9370h4xt6ttm0h3/ssinjtest",
+    "displayDenom": "ssINJTEST",
+    "coinDenom": "ssINJTEST",
+    "denom_units": [
+      {
+        "denom": "ssINJTEST",
+        "exponent": 18
+      }
+    ]
+  },
+  {
+    "image": "https://raw.githubusercontent.com/StreamSwapProtocol/assetlists/main/images/syn.png",
+    "denom": "factory/osmo1nz7qdp7eg30sr959wvrwn9j9370h4xt6ttm0h3/sssyntest",
+    "displayDenom": "ssSYNTEST"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "image": "https://raw.githubusercontent.com/StreamSwapProtocol/assetlists/main/images/trump.png",
+    "denom": "ibc/5339B0D20986A7C20C2548ED9D6B8DE47BB64E03ABFD051B7792E713036EA20C",
+    "displayDenom": "XTRUMP"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/StreamSwapProtocol/assetlists/main/images/syn.png",
+    "denom": "factory/inj1a6xdezq7a94qwamec6n6cnup02nvewvjtz6h6e/SYN",
+    "displayDenom": "SYN"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/StreamSwapProtocol/assetlists/main/images/injective.svg",
+    "denom": "INJ",
+    "displayDenom": "INJ",
+    "coinDenom": "INJ",
+    "denom_units": [
+      {
+        "denom": "INJ",
+        "exponent": 18
+      }
+    ]
+  },
+  {
+    "image": "https://raw.githubusercontent.com/StreamSwapProtocol/assetlists/main/images/cook.png",
+    "denom": "ibc/C9EC3080B046D49949239E1704522EE8B7BE0A668027028059A7FE7BC20B0976",
+    "displayDenom": "COOK"
+  }
+]

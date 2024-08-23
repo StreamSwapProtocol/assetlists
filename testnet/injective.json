@@ -1,0 +1,44 @@
+[
+  {
+    "image": "https://raw.githubusercontent.com/StreamSwapProtocol/assetlists/main/images/streamswap.svg",
+    "denom": "factory/inj1mlalkqq4egj7mz68x47tmpnf57aj7480g4evxa/sssyn",
+    "displayDenom": "ssSYN",
+    "coinDenom": "ssSYN",
+    "denom_units": [
+      {
+        "denom": "ssSYN",
+        "exponent": 18
+      }
+    ]
+  },
+  {
+    "image": "https://raw.githubusercontent.com/StreamSwapProtocol/assetlists/main/images/injective.svg",
+    "denom": "factory/inj1mlalkqq4egj7mz68x47tmpnf57aj7480g4evxa/ssainj",
+    "displayDenom": "ssINJ",
+    "coinDenom": "ssINJ",
+    "denom_units": [
+      {
+        "denom": "ssINJ",
+        "exponent": 18
+      }
+    ]
+  },
+  {
+    "image": "https://raw.githubusercontent.com/StreamSwapProtocol/assetlists/main/images/syn.png",
+    "denom": "factory/inj17ghwrdm2u2xsv8emlltqz3h3s6wvqcsdptr38z/arkSYN",
+    "displayDenom": "arkSYN",
+    "coinDenom": "arkSYN",
+    "denom_units": [
+      {
+        "denom": "arkSYN",
+        "exponent": 18
+      }
+    ]
+  },
+  {
+    "image": "https://raw.githubusercontent.com/StreamSwapProtocol/assetlists/main/images/streamswap.svg",
+    "denom": "factory/inj1mlalkqq4egj7mz68x47tmpnf57aj7480g4evxa/usssyn",
+    "displayDenom": "ussSYN",
+    "display": "ussSYN"
+  }
+]
