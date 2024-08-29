@@ -13,10 +13,10 @@
     "image": "https://raw.githubusercontent.com/StreamSwapProtocol/assetlists/main/images/injective.svg",
     "denom": "INJ",
     "displayDenom": "INJ",
-    "coinDenom": "INJ",
+    "coinDenom": "inj",
     "denom_units": [
       {
-        "denom": "INJ",
+        "denom": "inj",
         "exponent": 18
       }
     ]
