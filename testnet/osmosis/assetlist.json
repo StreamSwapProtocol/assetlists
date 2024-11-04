@@ -73,5 +73,10 @@
     "image": "https://raw.githubusercontent.com/StreamSwapProtocol/assetlists/main/images/syn.png",
     "denom": "factory/osmo1nz7qdp7eg30sr959wvrwn9j9370h4xt6ttm0h3/sssyntest",
     "displayDenom": "ssSYNTEST"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/StreamSwapProtocol/assetlists/main/images/ygata.png",
+    "denom": "factory/omniflix1fgs9gudt8ltlnv5yymzjhcafycltw2tz85rx0t/uygatax",
+    "displayDenom": "yGATA"
   }
 ]
