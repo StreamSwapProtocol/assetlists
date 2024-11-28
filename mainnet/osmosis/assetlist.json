@@ -107,5 +107,10 @@
     "image": "https://raw.githubusercontent.com/StreamSwapProtocol/assetlists/main/images/ygata.png",
     "denom": "ibc/50F886EFA15E1FF3D9226B177083A1EFF944176181C70B6131D74FE5AFB1F2C0",
     "displayDenom": "yGATA"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/StreamSwapProtocol/assetlists/main/images/sherpa.jpeg",
+    "denom": "factory/osmo1n6asrjy9754q8y9jsxqf557zmsv3s3xa5m9eg5/usherpa",
+    "displayDenom": "SHERPA"
   }
 ]
