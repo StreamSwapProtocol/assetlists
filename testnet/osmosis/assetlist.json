@@ -78,5 +78,10 @@
     "image": "https://raw.githubusercontent.com/StreamSwapProtocol/assetlists/main/images/ygata.png",
     "denom": "ibc/4F50AA56E0A30795F8A29D91734C4631EA3140FD08F502A531A51C23F941B2E8",
     "displayDenom": "yGATA"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/StreamSwapProtocol/assetlists/main/images/streamswap.svg",
+    "denom": "factory/osmo1aqw9nuqejcdjzfw24dweu5xyunwz3x3y8dya93/stream_swap_test_token864",
+    "displayDenom": "TOKEN864"
   }
 ]
