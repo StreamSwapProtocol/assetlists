@@ -117,5 +117,10 @@
     "image": "https://raw.githubusercontent.com/StreamSwapProtocol/assetlists/main/images/allin.png",
     "denom": "factory/osmo1gzcz4anh88fz3vanx0842gsa3y8jcvck3qw90e/uallin",
     "displayDenom": "ALLIN"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/StreamSwapProtocol/assetlists/main/images/cult.png",
+    "denom": "factory/osmo1qdvwftqd8ml6t9w6dmj97m03ck5ghqqmd8y7cm/cult",
+    "displayDenom": "CULT"
   }
 ]
