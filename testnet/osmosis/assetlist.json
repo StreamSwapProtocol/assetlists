@@ -83,5 +83,10 @@
     "image": "https://raw.githubusercontent.com/StreamSwapProtocol/assetlists/main/images/streamswap.svg",
     "denom": "factory/osmo1aqw9nuqejcdjzfw24dweu5xyunwz3x3y8dya93/stream_swap_test_token864",
     "displayDenom": "TOKEN864"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/StreamSwapProtocol/assetlists/main/images/cult.png",
+    "denom": "factory/osmo1qdvwftqd8ml6t9w6dmj97m03ck5ghqqmd8y7cm/testcult",
+    "displayDenom": "TCULT"
   }
 ]
