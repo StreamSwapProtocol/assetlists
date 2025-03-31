@@ -1,0 +1,10 @@
+[
+    {
+        "image": "https://raw.githubusercontent.com/StreamSwapProtocol/assetlists/main/images/streamswap.svg",
+        "address": "0xd1d3279dc4bD881A714846FE1af5bDD3a0c52354",
+        "chainName": "Sepolia",
+        "chainId": 11155111,
+        "displayDenom": "streamswapEVM",
+        "decimals": 18
+    }
+]
