@@ -3,14 +3,14 @@
         "image": "https://raw.githubusercontent.com/StreamSwapProtocol/assetlists/main/images/streamswap.svg",
         "address": "0xd1d3279dc4bD881A714846FE1af5bDD3a0c52354",
         "chainId": 11155111,
-        "displayDenom": "streamswapSepolia1",
+        "displayDenom": "ssSepolia1",
         "decimals": 18
     },
     {
         "image": "https://raw.githubusercontent.com/StreamSwapProtocol/assetlists/main/images/streamswap.svg",
         "address": "0x07882Ae1ecB7429a84f1D53048d35c4bB2056877",
         "chainId": 11155111,
-        "displayDenom": "streamswapSepolia",
+        "displayDenom": "ssSepolia",
         "decimals": 18
     }
 ]
