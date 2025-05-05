@@ -2,6 +2,7 @@
     {
         "image": "https://raw.githubusercontent.com/StreamSwapProtocol/assetlists/main/images/streamswap.svg",
         "denom": "factory/mantra1hd099h2ddvnszgucf95jkh6dqzus5ntznzs99u/stream_swap_test_token778",
-        "displayDenom": "TOKEN778"
+        "displayDenom": "TOKEN778",
+        "decimals": 6
     }
 ]

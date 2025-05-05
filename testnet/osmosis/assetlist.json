@@ -2,19 +2,22 @@
   {
     "image": "https://raw.githubusercontent.com/StreamSwapProtocol/assetlists/main/images/flix.svg",
     "denom": "factory/osmo1nz7qdp7eg30sr959wvrwn9j9370h4xt6ttm0h3/ussflix",
-    "displayDenom": "ssFLIX"
+    "displayDenom": "ssFLIX",
+    "decimals": 6
   },
   {
     "image": "https://raw.githubusercontent.com/StreamSwapProtocol/assetlists/main/images/shark.png",
     "denom": "factory/osmo1eqntnl6tzcj9h86psg4y4h6hh05g2h9nhgr9xr/shark",
     "displayDenom": "SHARK",
-    "coinDenom": "SHARK"
+    "coinDenom": "SHARK",
+    "decimals": 6
   },
   {
     "image": "https://raw.githubusercontent.com/StreamSwapProtocol/assetlists/main/images/streamswap.svg",
     "denom": "factory/osmo1nz7qdp7eg30sr959wvrwn9j9370h4xt6ttm0h3/asswp",
     "displayDenom": "SSWP",
     "coinDenom": "SSWP",
+    "decimals": 18,
     "denom_units": [
       {
         "denom": "SSWP",
@@ -25,43 +28,51 @@
   {
     "image": "https://raw.githubusercontent.com/StreamSwapProtocol/assetlists/main/images/c4e.webp",
     "denom": "ibc/539BC2B6E70117D220834D6DF8E27307655D1325C0CADF7E3AF90AB00D9F8D69",
-    "displayDenom": "C4E"
+    "displayDenom": "C4E",
+    "decimals": 6
   },
   {
     "image": "https://raw.githubusercontent.com/StreamSwapProtocol/assetlists/main/images/empower.png",
     "denom": "ibc/9F0154559E79E6444AC0762AA390AED5784D01759F91A3D59246428E02160BD3",
-    "displayDenom": "MPWR"
+    "displayDenom": "MPWR",
+    "decimals": 6
   },
   {
     "image": "https://raw.githubusercontent.com/StreamSwapProtocol/assetlists/main/images/nolus.png",
     "denom": "ibc/95359FD9C5D15DBD7B9A6B7271F5E769776999590DE138ED62B6E89D5D010B7C",
-    "displayDenom": "NLS"
+    "displayDenom": "NLS",
+    "decimals": 6
   },
   {
     "image": "https://raw.githubusercontent.com/StreamSwapProtocol/assetlists/main/images/quasar.png",
     "denom": "ibc/206DE6A2D1882D91A12F01C8BD85A33C9673C6A39761D36CF736436D6EF4C588",
-    "displayDenom": "QSR"
+    "displayDenom": "QSR",
+    "decimals": 6
   },
   {
     "image": "https://raw.githubusercontent.com/StreamSwapProtocol/assetlists/main/images/passage.png",
     "denom": "ibc/966AAD1709CC2C27723B7C88F69E8059575D9FE615A2F7FF677347C27C8634CE",
-    "displayDenom": "PASG"
+    "displayDenom": "PASG",
+    "decimals": 6
   },
   {
     "image": "https://raw.githubusercontent.com/StreamSwapProtocol/assetlists/main/images/strdust.png",
     "denom": "ibc/443E1EE7461A500928DD8B47E8FE54175CD3E8B8A2FFD8B5D6259DF73929A31C",
-    "displayDenom": "STRDST"
+    "displayDenom": "STRDST",
+    "decimals": 6
   },
   {
     "image": "https://raw.githubusercontent.com/StreamSwapProtocol/assetlists/main/images/lore.png",
     "denom": "factory/osmo1nz7qdp7eg30sr959wvrwn9j9370h4xt6ttm0h3/usslore",
-    "displayDenom": "ssLORE"
+    "displayDenom": "ssLORE",
+    "decimals": 6
   },
   {
     "image": "https://raw.githubusercontent.com/StreamSwapProtocol/assetlists/main/images/injective.svg",
     "denom": "factory/osmo1nz7qdp7eg30sr959wvrwn9j9370h4xt6ttm0h3/ssinjtest",
     "displayDenom": "ssINJTEST",
     "coinDenom": "ssINJTEST",
+    "decimals": 18,
     "denom_units": [
       {
         "denom": "ssINJTEST",
@@ -72,21 +83,25 @@
   {
     "image": "https://raw.githubusercontent.com/StreamSwapProtocol/assetlists/main/images/syn.png",
     "denom": "factory/osmo1nz7qdp7eg30sr959wvrwn9j9370h4xt6ttm0h3/sssyntest",
-    "displayDenom": "ssSYNTEST"
+    "displayDenom": "ssSYNTEST",
+    "decimals": 6
   },
   {
     "image": "https://raw.githubusercontent.com/StreamSwapProtocol/assetlists/main/images/ygata.png",
     "denom": "ibc/4F50AA56E0A30795F8A29D91734C4631EA3140FD08F502A531A51C23F941B2E8",
-    "displayDenom": "yGATA"
+    "displayDenom": "yGATA",
+    "decimals": 6
   },
   {
     "image": "https://raw.githubusercontent.com/StreamSwapProtocol/assetlists/main/images/streamswap.svg",
     "denom": "factory/osmo1aqw9nuqejcdjzfw24dweu5xyunwz3x3y8dya93/stream_swap_test_token864",
-    "displayDenom": "TOKEN864"
+    "displayDenom": "TOKEN864",
+    "decimals": 6
   },
   {
     "image": "https://raw.githubusercontent.com/StreamSwapProtocol/assetlists/main/images/cult.png",
     "denom": "factory/osmo1qdvwftqd8ml6t9w6dmj97m03ck5ghqqmd8y7cm/testcult",
-    "displayDenom": "TCULT"
+    "displayDenom": "TCULT",
+    "decimals": 6
   }
 ]
