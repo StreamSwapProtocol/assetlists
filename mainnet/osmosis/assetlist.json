@@ -149,6 +149,6 @@
     "image": "https://raw.githubusercontent.com/StreamSwapProtocol/assetlists/main/images/fatlas.jpeg",
     "denom": "factory/osmo1dywfmhyc8y0wga7qpzej0x0mgwqg25fj4eccp494w8yafzdpgamsx9ryyv/fATLAS",
     "displayDenom": "fATLAS",
-    "decimals": 6
+    "decimals": 9
   }
 ]
