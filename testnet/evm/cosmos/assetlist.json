@@ -1,9 +1,9 @@
 [
     {
         "image": "https://raw.githubusercontent.com/StreamSwapProtocol/assetlists/main/images/streamswap.svg",
-        "address": "0xced68e49cc3da07f2bc8d786b39ca73f261bf8f3",
+        "address": "0x9c8ffa803469921d0622408e007f9faa7c490b49",
         "chainId": 11155111,
-        "displayDenom": "ssSepolia",
+        "displayDenom": "ssCosmosEVM",
         "decimals": 18
     }
 ]
