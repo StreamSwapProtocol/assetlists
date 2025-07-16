@@ -3,7 +3,7 @@
         "image": "https://raw.githubusercontent.com/StreamSwapProtocol/assetlists/main/images/streamswap.svg",
         "address": "0x9c8ffa803469921d0622408e007f9faa7c490b49",
         "chainId": 11155111,
-        "displayDenom": "ssCosmosEVM",
+        "displayDenom": "ssTOKEN1",
         "decimals": 18
     }
 ]
