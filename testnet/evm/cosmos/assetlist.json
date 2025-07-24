@@ -1,6 +1,6 @@
 [
     {
-        "image": "https://raw.githubusercontent.com/StreamSwapProtocol/assetlists/main/images/streamswap.svg",
+        "image": "https://raw.githubusercontent.com/StreamSwapProtocol/assetlists/main/images/cosmos-evm.svg",
         "address": "0x9c8ffa803469921d0622408e007f9faa7c490b49",
         "chainId": 11155111,
         "displayDenom": "ssTOKEN1",
