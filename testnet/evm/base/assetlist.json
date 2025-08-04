@@ -1,0 +1,9 @@
+[
+    {
+        "image": "https://raw.githubusercontent.com/StreamSwapProtocol/assetlists/main/images/streamswap.svg",
+        "address": "0x9C8FfA803469921D0622408E007F9fAa7C490b49",
+        "chainId": 84532,
+        "displayDenom": "ssTOKEN1",
+        "decimals": 18
+    }
+]
