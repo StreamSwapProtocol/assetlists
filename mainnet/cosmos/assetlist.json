@@ -1,3 +1,8 @@
 [
-    
+    {
+        "image": "https://raw.githubusercontent.com/StreamSwapProtocol/assetlists/main/images/into.png",
+        "denom": "ibc/DC1EF3EA03CD7F2226981D610335C3E62E3DD868A1B83EB017CE294E29C8D473",
+        "displayDenom": "INTO",
+        "decimals": 6
+    }
 ]
