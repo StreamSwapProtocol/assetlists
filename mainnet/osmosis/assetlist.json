@@ -156,5 +156,11 @@
     "denom": "ibc/BE072C03DA544CF282499418E7BC64D38614879B3EE95F9AD91E6C37267D483",
     "displayDenom": "INTO",
     "decimals": 6
+  },
+  {
+    "image": "https://raw.githubusercontent.com/StreamSwapProtocol/assetlists/main/images/quark.png",
+    "denom": "factory/osmo1x7s7a2erqspkm6e79n7yh7fw3yh7xx4lt54mxg/uquark",
+    "displayDenom": "QUARK",
+    "decimals": 6
   }
 ]
