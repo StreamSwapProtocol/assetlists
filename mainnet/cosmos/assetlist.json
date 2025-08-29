@@ -4,5 +4,11 @@
         "denom": "ibc/DC1EF3EA03CD7F2226981D610335C3E62E3DD868A1B83EB017CE294E29C8D473",
         "displayDenom": "INTO",
         "decimals": 6
+    },
+    {
+        "image": "https://raw.githubusercontent.com/StreamSwapProtocol/assetlists/main/images/quark.png",
+        "denom": "ibc/7B6EBFC446E50DFF981C994E207BFB398889706C2B0DF8A14D8B87F6C0E33A1A",
+        "displayDenom": "QUARK",
+        "decimals": 6
     }
 ]
