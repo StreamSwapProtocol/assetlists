@@ -1,7 +1,7 @@
 [
     {
         "image": "https://raw.githubusercontent.com/StreamSwapProtocol/assetlists/main/images/streamswap.svg",
-        "address": "0x4297335f1A29D425A074A5B3942B1773aEe5281A",
+        "address": "0x6db46c193dFf3A6A411459E5A29e5307100f13a5",
         "chainId": 998,
         "displayDenom": "ssTOKEN1",
         "decimals": 18
