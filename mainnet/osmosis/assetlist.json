@@ -153,7 +153,7 @@
   },
   {
     "image": "https://raw.githubusercontent.com/StreamSwapProtocol/assetlists/main/images/into.png",
-    "denom": "ibc/BE072C03DA544CF282499418E7BC64D38614879B3EE95F9AD91E6C37267D483",
+    "denom": "ibc/BE072C03DA544CF282499418E7BC64D38614879B3EE95F9AD91E6C37267D4836",
     "displayDenom": "INTO",
     "decimals": 6
   },
